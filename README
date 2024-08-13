@@ -1,8 +1,9 @@
+# What is this?
 This is a proof of concept that I could achieve macro recording and accurate playbacks with python. This is my first iteration of these scripts, I'm sure that I could still improve the recording to have less lines of text, and improve the playback speed and accuracy, though I haven't 
 done as much testing as I would like to at the time of posting. 
 
 I might continually update and post new versions as I decide to continue on this project. There's currently no GUI which I would like to add at some point. 
-
+# How To Use (With an IDE)
 To record macros, run the "recording.py" file. Press f5 (or any other start script button in your IDE) to intiate recording.
 To end the recording press 'esc'. 
 When the 'esc' key is pressed, it saves a macro_x.json file in the "/recordings" directory thatshould have been created when ending the macro. 
@@ -10,6 +11,10 @@ When the 'esc' key is pressed, it saves a macro_x.json file in the "/recordings"
 To play back a macro, open the "playback.py" file, Press f5 (or any other start script button in your IDE) to initiate playback. Unfortunately,
 I have not coded in an exit button if you want to stop the early (WIP). 
 Playback will end when the script ends.
+
+# Tech used
+- Python 
+- Pyautogui
 
 Feel free to give feedback, positive or negative. 
 Thanks,
