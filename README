@@ -27,6 +27,7 @@ This is a proof of concept for achieving macro recording and accurate playback u
 - Optimize Playback Accuracy: Improve the precision of macro playback to better simulate human-like behavior.
 - Optimize Recording Efficiency: Reduce the overhead and improve the performance of the recording process.
 - Implement Early Exit: Add a hotkey or method to stop playback before it completes.
+- Create GUI with Tkinter or PyQT6
 
 
 Feel free to provide feedback—positive or negative!
