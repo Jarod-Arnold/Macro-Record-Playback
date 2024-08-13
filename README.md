@@ -30,8 +30,6 @@ This is a proof of concept for achieving macro recording and accurate playback u
 - Create GUI with Tkinter or PyQT6
 
 
-Feel free to provide feedback—positive or negative!
-
 Feel free to provide feedback-positive or negative!
 This is an open source project, please feel free to make any contributions!
 You can reach out to me for any questions or suggestions at: jarod.a.github@gmail.com
