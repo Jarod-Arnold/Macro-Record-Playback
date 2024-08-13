@@ -1,6 +1,7 @@
 from pynput import mouse, keyboard
 from time import time
 import json
+import math
 import os
 
 # declare listeners globally so they can be stopped
