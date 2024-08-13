@@ -1,7 +1,7 @@
 # Macro Record + Playback V.01
 This is a proof of concept for achieving macro recording and accurate playback using Python. This is the first iteration of these scripts, designed for automating repetitive tasks through recorded input sequences.
 
-#How to Use (With an IDE)
+# How to Use (With an IDE)
  ##Recording a Macro
 - Run the recording.py file in your IDE.
 - Press F5 (or the start script button in your IDE) to initiate recording.
